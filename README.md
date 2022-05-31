@@ -1,10 +1,7 @@
-# Design-Patterns
-JavaScript Design Patterns Every developer should know
-
-
+ 
 
  <p align="center">
-  <a target='_blank'><img src='[https://s27389.pcdn.co/wp-content/uploads/2020/01/what-are-newest-cyber-attacks-look-out-for-1024x440.jpeg](https://res.cloudinary.com/practicaldev/image/fetch/s--mmzytYSy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/rr0h1bw7dnsio6lsxq7q.jpeg)' border='0'/></a>  <h1    align="center">Design-Patterns</h1>
+  <a target='_blank'><img src='https://s27389.pcdn.co/wp-content/uploads/2020/01/what-are-newest-cyber-attacks-look-out-for-1024x440.jpeg  border='0'/></a>  <h1    align="center">Design-Patterns</h1>
  </p>
  
 
